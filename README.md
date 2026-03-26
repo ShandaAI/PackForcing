@@ -1,5 +1,3 @@
-Here is a drafted `README.md` for your repository. I have removed the project page and YouTube badges as requested, added a comprehensive introduction based on the paper's abstract and method, and included a TODO section. I also fixed the BibTeX citation key and author formatting to match your paper accurately.
-
 ***
 
 <div align="center">
