@@ -28,6 +28,11 @@ To address these challenges, we present **PackForcing**, a unified framework tha
 
 Empowered by this principled hierarchical context compression and a continuous Temporal RoPE Adjustment, PackForcing can generate coherent 2-minute, 832x480 videos at 16 FPS on a single H200 GPU. It achieves a bounded KV cache of just ~4GB and enables a remarkable 24x temporal extrapolation (from 5s to 120s), operating effectively either zero-shot or trained on merely 5-second clips.
 
+## 🎥 Generation Result
+
+<video src="assets/c2cc6abde8b8de5bb3a82681cb840492.mp4" controls="controls" width="100%">
+</video>
+
 ## 📝 TODO List
 
 - [ ] Release train/inference code
