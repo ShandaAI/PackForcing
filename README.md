@@ -2,7 +2,7 @@
 
 ## PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2603.23497-b31b1b.svg)](https://arxiv.org/abs/2603.23497)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2603.23497-b31b1b.svg)](https://arxiv.org/abs/2603.25730)&nbsp;
 
 </div>
 
@@ -46,10 +46,10 @@ If you find this project helpful, please consider citing our work:
       title={PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference}, 
       author={Xiaofeng Mao and Shaohao Rui and Kaining Ying and Bo Zheng and Chuanhao Li and Mingmin Chi and Kaipeng Zhang},
       year={2026},
-      eprint={2603.23497},
+      eprint={2603.25730},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.23497}, 
+      url={https://arxiv.org/abs/2603.25730}, 
 }
 ```
 
